@@ -1,0 +1,2 @@
+# Lower-Case-To-Upper--Case-lower-case-to-Upper-Case-Convertor-using-REACT_Js-
+Imports: We import useState from React to manage component state. State Variables: text: Stores the user-entered text. isUppercase: Keeps track of whether the user wants uppercase or lowercase conversion (a boolean). Event Handlers: handleInputChange: Updates the text state whenever the user types in the textarea. handleCaseToggle: F
